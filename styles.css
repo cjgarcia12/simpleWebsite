@@ -1,0 +1,17 @@
+
+body {
+    background-color: rgb(144, 230, 230) !important;
+}
+
+nav {
+    background-color: aquamarine !important;
+}
+
+.row {
+    background-color: white;
+}
+
+textarea {
+    width: 100%;
+}
+
